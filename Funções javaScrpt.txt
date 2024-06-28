@@ -1,0 +1,19 @@
+Funções JavaScrit 
+1° Passo:
+  Escreve a palavra chave "function" 
+2° Passo:
+  dá um nome a função 
+3° Passo:
+  Escreve parentese (), e dentro deles os parametros necessarios para a função.
+4° Passo:
+  Delimita o inicio e fim da função com o símbolo da chave () 
+5° Passo: 
+  Entre as chaves será escrito o código da programação da função. Se cso necessário será usado a palavra-chave return para retorno dos valores necesários. 
+
+
+  Criar uma função que ao ser chamada escreva o nome de quem a chamou.
+
+  Criar uma função que retorne a soma de 3 números pasados por parametro.
+
+  Escrever uma funçao que escreva o resultado da seguinte equação x=a+b*c
+    
